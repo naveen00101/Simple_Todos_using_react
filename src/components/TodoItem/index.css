@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 60vw;
+}
+
+.title {
+  font-size: 20px;
+  font-family: roboto;
+  font-weight: 400;
+}
+
+.btn {
+  background-color: transparent;
+  border-color: #ff0b37;
+  border-radius: 8px;
+  border-width: 2px;
+  border-style: solid;
+  width: 90px;
+  height: 35px;
+  font-family: roboto;
+  font-size: 16px;
+  color: #ff0b37;
+}
